@@ -22,7 +22,7 @@
     <dependency>
       <groupId>com.amazonaws</groupId>
       <artifactId>AWSGlueETL</artifactId>
-      <version>1.0.0</version>
+      <version>4.0.0</version>
     </dependency>
     <dependency>
       <groupId>org.apache.spark</groupId>
@@ -44,9 +44,9 @@
     </dependency>
 
     <dependency>
-    <groupId>org.projectlombok</groupId>
-    <artifactId>lombok</artifactId>
-    <version>1.18.26</version>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.18.26</version>
     <scope>provided</scope>
 </dependency>
   </dependencies>
